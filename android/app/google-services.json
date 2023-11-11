@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103553059128",
+    "project_id": "find-by-claps",
+    "storage_bucket": "find-by-claps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103553059128:android:bcad8b9899bc5d461899cd",
+        "android_client_info": {
+          "package_name": "com.findbyclaps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApTe3LzLQGArkIj-AbL-4RhhvBYR3ebeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
